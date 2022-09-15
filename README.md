@@ -2,4 +2,4 @@
 
 
 
-https://raganork-api.vercel.app/idu00002/deploy-md/
+https://raganork-api.vercel.app/idu00002/deploy-md/idu00002
